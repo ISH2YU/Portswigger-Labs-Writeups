@@ -7,4 +7,4 @@ To solve the lab, retrieve the contents of the **/etc/passwd** file.
 
 Open the Browser in Burp Suite , Intercept On
 
-![alt text](Burp1.png)
+![alt text](burp1.png)
